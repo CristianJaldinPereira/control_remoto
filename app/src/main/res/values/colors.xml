@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="remote_bg">#FFF2F3F7</color>
+    <color name="remote_card">#FFFFFFFF</color>
+    <color name="remote_title">#FF17171C</color>
+    <color name="remote_subtitle">#FF6B6B76</color>
+    <color name="remote_hint">#FF8A8A94</color>
+
+    <color name="circle_light">#FFEEF1F6</color>
+    <color name="circle_border">#FFE1E4EC</color>
+    <color name="circle_ink">#FF2B2B33</color>
+    <color name="circle_surface">#FFFFFFFF</color>
+    <color name="circle_white">#FFFFFFFF</color>
+    <color name="circle_yellow_ink">#FF3A3A00</color>
+
+    <color name="circle_power">#FFE85D75</color>
+    <color name="circle_auto">#FF7E57C2</color>
+    <color name="circle_red">#FFE53935</color>
+    <color name="circle_green">#FF2E7D32</color>
+    <color name="circle_blue">#FF1E88E5</color>
+    <color name="circle_violet">#FF8E24AA</color>
+    <color name="circle_yellow">#FFFDD835</color>
+
+    <color name="circle_motor_ink">#FFE91E63</color>
+    <color name="circle_mute_ink">#FF43A047</color>
+    <color name="circle_volume_ink">#FF1E88E5</color>
+    <color name="circle_laser_ink">#FF8E24AA</color>
+</resources>

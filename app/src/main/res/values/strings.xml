@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Control Foco IR</string>
+
+    <string name="screen_title">Control del foco</string>
+    <string name="ir_ready">Emisor IR listo · 38 kHz</string>
+    <string name="ir_missing">Este teléfono no tiene emisor IR.</string>
+
+    <string name="theme_dark">Activar modo oscuro</string>
+    <string name="theme_light">Activar modo claro</string>
+
+    <string name="hint_edit">Mantené presionado un botón para ajustar su código IR.</string>
+    <string name="edit_code_title">Código de \"%1$s\"</string>
+    <string name="edit_code_help">Address de 8 bits (o 16 para NEC extendido) y command de 8 bits, en hexadecimal.</string>
+    <string name="hint_address">Address (ej. EF00)</string>
+    <string name="hint_command">Command (ej. 03)</string>
+    <string name="invalid_code">Código inválido</string>
+    <string name="code_saved">Código guardado</string>
+    <string name="sent">Enviado: %1$s</string>
+    <string name="send_failed">No se pudo transmitir</string>
+</resources>
